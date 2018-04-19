@@ -13,3 +13,5 @@ Imports:
     magrittr,
     digest,
     httr
+URL: https://github.com/wolass/timestampr
+BugReports: https://github.com/wolass/timestampr/issues
